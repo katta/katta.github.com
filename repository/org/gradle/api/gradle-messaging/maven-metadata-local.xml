@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.gradle.api</groupId>
+  <artifactId>gradle-messaging</artifactId>
+  <version>1.2</version>
+  <versioning>
+    <versions>
+      <version>1.2</version>
+    </versions>
+    <lastUpdated>20130118172532</lastUpdated>
+  </versioning>
+</metadata>
